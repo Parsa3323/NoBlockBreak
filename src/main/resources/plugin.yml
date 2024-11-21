@@ -1,0 +1,3 @@
+name: noblocks
+version: '${project.version}'
+main: me.parsa.noblocks.Noblocks
