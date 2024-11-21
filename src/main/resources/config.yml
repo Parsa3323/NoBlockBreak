@@ -1,0 +1,7 @@
+Prefixes:
+  enabled: false
+  prefix: "SERVER"
+messages:
+  No-Permision: "§cYou can't break blocks Sorry"
+  No-Anvil: "Sorry anvils are disabled on this server"
+test: "yo"
