@@ -9,6 +9,7 @@ public final class Noblocks extends JavaPlugin {
     @Override
     public void onEnable() {
         System.out.println(Color.GREEN + "Plugin Enabled Succsesfully");
+        //trh
 
         getServer().getPluginManager().registerEvents(new NoBlockBreak(), this);
 
